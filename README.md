@@ -53,7 +53,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ibrarmunircoder/Azure-Aks-Mailing-Label-Web-App-Deployment/pull/1) in [ibrarmunircoder/Azure-Aks-Mailing-Label-Web-App-Deployment](https://github.com/ibrarmunircoder/Azure-Aks-Mailing-Label-Web-App-Deployment)
+1. 🎉 Merged PR [#1](https://github.com/ibrarmunircoder/web-cloud-resume/pull/1) in [ibrarmunircoder/web-cloud-resume](https://github.com/ibrarmunircoder/web-cloud-resume)
 <!--END_SECTION:activity-->
 
 ## 📫 Contact Me:
