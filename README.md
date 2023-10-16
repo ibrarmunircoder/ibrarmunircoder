@@ -53,7 +53,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ibrarmunircoder/web-cloud-resume/pull/3) in [ibrarmunircoder/web-cloud-resume](https://github.com/ibrarmunircoder/web-cloud-resume)
+1. 🎉 Merged PR [#1](https://github.com/ibrarmunircoder/social-media-chatty-app/pull/1) in [ibrarmunircoder/social-media-chatty-app](https://github.com/ibrarmunircoder/social-media-chatty-app)
 <!--END_SECTION:activity-->
 
 ## 📫 Contact Me:
