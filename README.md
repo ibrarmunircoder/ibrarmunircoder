@@ -53,7 +53,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ibrarmunircoder/social-media-chatty-app/pull/5) in [ibrarmunircoder/social-media-chatty-app](https://github.com/ibrarmunircoder/social-media-chatty-app)
+1. 💪 Opened PR [#6](https://github.com/ibrarmunircoder/social-media-chatty-app/pull/6) in [ibrarmunircoder/social-media-chatty-app](https://github.com/ibrarmunircoder/social-media-chatty-app)
 <!--END_SECTION:activity-->
 
 ## 📫 Contact Me:
