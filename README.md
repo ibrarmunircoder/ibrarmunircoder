@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer with 5+ years of experience building scalable cloud-native applications using AWS, TypeScript, and Python. I specialize in serverless architecture, backend development, and DevOps practices, with hands-on experience in designing distributed systems, automating infrastructure using tools like AWS CDK and Terraform, and building reliable CI/CD pipelines. I enjoy optimizing performance, improving system reliability, and continuously learning new technologies in cloud and system design.
+Software Engineer with 5+ years of experience building scalable cloud-native applications using AWS, TypeScript, and NodeJS. I specialize in serverless architecture, backend development, and DevOps practices, with hands-on experience in designing distributed systems, automating infrastructure using tools like AWS CDK and Terraform, and building reliable CI/CD pipelines. I enjoy optimizing performance, improving system reliability, and continuously learning new technologies in cloud and system design.
 
 ## GitHub Statistics📊:
 
