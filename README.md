@@ -24,6 +24,6 @@ Software Engineer with 5+ years of experience building scalable cloud-native app
 <a href="https://ibrarmunir.d3psh89dj43dt6.amplifyapp.com/" target="_blank">
   <img src="/website.png" alt="Website" width="48" />
 </a>
-
+&nbsp;
 
 🙏 Thank you for visiting my profile.
