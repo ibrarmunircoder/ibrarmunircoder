@@ -8,7 +8,7 @@ Software Engineer with 5+ years of experience building scalable cloud-native app
 
 ## 🛠️ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,go,nodejs,react,nextjs,html,css,tailwind,aws,terraform,docker,githubactions,postgres,mysql,mongodb,redis,git,github,linux,vscode,nginx,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,aws,terraform,docker,githubactions,postgres,mysql,mongodb,redis,git,github,linux,vscode,nginx,prometheus,grafana" />
 
 
 ## Links
